@@ -7,5 +7,5 @@ title;
 
 
 * CONNECT BOXPLOTS WITH LINE;
-* --------------------------
+* --------------------------;
 * connect=mean *** => vbox statement after '/';
